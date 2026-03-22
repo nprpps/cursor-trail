@@ -150,7 +150,7 @@ Move your cursor to see the trail effect. To exit, close the application window 
 ## ⚙️ Windows 11 Compatibility
 
 This project features a complete rewrite for Windows 11 compatibility:
-
+triggered
 - **Native Win32 overlay** instead of problematic OpenGL transparency
 - **Guaranteed top-level positioning** - no more hidden trails
 - **True transparency** - eliminates black square artifacts
